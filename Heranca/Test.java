@@ -18,7 +18,7 @@ public class Test {
 		funcionario.setCpf("234589");
 		funcionario.setSalario(2000);
 		funcionario.setEndereco(endereco);
-        funcionario.imprimir();
+                funcionario.imprimir();
 	}
 
 }
